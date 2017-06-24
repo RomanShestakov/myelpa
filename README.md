@@ -1,2 +1,2 @@
 # myelpa
-ELPA mirror
+ELPA mirror create by https://github.com/redguardtoo/elpa-mirror#repository-on-github
